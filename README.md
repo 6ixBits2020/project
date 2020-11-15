@@ -1,3 +1,4 @@
+<img src="images/logo.png">
 ***House Price Prediction algorithm***
 
 **Bathroom and Bedroom abundance bar graph**
