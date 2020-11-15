@@ -2,7 +2,7 @@
 
 
 Bathroom and Bedroom abundance bar graph
-<img src="Images/git2.png">
+<img src="images/git2.png">
 
 Housing map cluster
-<img src="Images/git1.png">
+<img src="images/git1.png">
