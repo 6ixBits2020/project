@@ -5,7 +5,7 @@ Project description
 
 
 Bathroom and Bedroom abundance bar graph
-<img src="C:\Users\Andre\Pictures\hackathonchallenge\git2">
+<img src="git2.png">
 
 Housing map cluster
-<img src="C:\Users\Andre\Pictures\hackathonchallenge\git1">
+<img src="git1.png">
