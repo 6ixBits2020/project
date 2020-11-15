@@ -1,7 +1,7 @@
 # project
 Project description 
 
-*House Price Prediction algorithm*
+**House Price Prediction algorithm**
 
 
 Bathroom and Bedroom abundance bar graph
